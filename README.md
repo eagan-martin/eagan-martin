@@ -21,7 +21,7 @@
 <div style="display:flex; justify-content: center;">
   <div style="margin-right: 10px;">
     <p align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=eagan-martin&count_private=true&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=CAD1D9&custom_title=Github Stats" alt="GitHub Stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=eagan-martin&count_private=true&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&title_color=CAD1D9&custom_title=Github%Stats" alt="GitHub Stats">
     </p>
   </div>
   <div style="margin-left: 10px;">
@@ -34,5 +34,5 @@
 <br>
 
 <p align="center">
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=eagan-martin&theme=github-compact&bg_color=FFFFFF00&hide_border=true&title_color=CAD1D9&custom_title=Contribution Graph">
+  <img alt="Contribution Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=eagan-martin&theme=github-compact&bg_color=FFFFFF00&hide_border=true&title_color=CAD1D9&custom_title=Contribution%Graph">
 </p>
