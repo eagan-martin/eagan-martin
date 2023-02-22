@@ -6,11 +6,10 @@
 <img src="https://readme-typing-svg.demolab.com?font=&size=16&duration=4000&pause=800&color=CAD1D9&center=true&vCenter=true&multiline=true&width=500&height=80&lines=%EC%95%84%EB%A7%88+%EB%84%88%EB%8F%84+%EB%82%98%EC%99%80+%EA%B0%99%EC%9D%84%EA%B1%B0%EC%95%BC;%EC%9A%B0%EB%A6%AC%EB%8A%94+%EA%B7%B8%EB%93%A4%EC%9D%B4+%EA%B2%B0%EC%BD%94+%EB%B3%B4%EC%A7%80+%EB%AA%BB%ED%95%A0+%EA%B2%83%EC%9D%84+%EB%B4%85%EB%8B%88%EB%8B%A4;%EB%84%88%EC%99%80+%EB%82%98%EB%8A%94+%EC%98%81%EC%9B%90%ED%9E%88+%EC%82%B4%EA%B1%B0%EC%95%BC"/>
 </p>
 
-<h2 style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; margin: 0; padding: 0 10px;">
+<h2 align="center">
   A Software Developer from&nbsp;<a href="https://www.fastek.com.ph/"><strong>Fastek Payment Solutions Inc.</strong></a>
   <img src="https://avatars.githubusercontent.com/u/94345400?s=400&u=94c8f09c5f104c16cf44924546759c1f0c1f580b&v=4" height="30" width="30">
 </h2>
-
 
 <br>
 <br>
