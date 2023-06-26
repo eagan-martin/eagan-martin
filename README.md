@@ -26,5 +26,6 @@
 <br>
 
 <p align="center">
-  <img alt="Contribution Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=eagan-martin&theme=github-compact&bg_color=FFFFFF00&hide_border=true&title_color=CAD1D9&custom_title=Contribution%20Graph">
+<!--   <img alt="Contribution Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=eagan-martin&theme=github-compact&bg_color=FFFFFF00&hide_border=true&title_color=CAD1D9&custom_title=Contribution%20Graph"> -->
+<a href="https://app.daily.dev/eagan-martin"><img src="https://api.daily.dev/devcards/f16fe82b1cf145068a9b844547e54b47.png?r=9zg" width="400" alt="Eagan Martin's Dev Card"/></a>
 </p>
