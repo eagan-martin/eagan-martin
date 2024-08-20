@@ -36,6 +36,6 @@
 <br>
 
 <div align="center">
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66c4517934a9226f3831834b?variant=dark" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/66c4517934a9226f3831834b?variant=dark" alt="roadmap.sh"/></a>
 
 </div>
