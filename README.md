@@ -32,3 +32,10 @@
 <a href="https://app.daily.dev/eaganmartin"><img src="https://api.daily.dev/devcards/v2/plHD8jcspyI5ly5XrPmCf.png?type=wide&r=8jv" width="652" alt="Eagan Martin's Dev Card"/></a>
   
 </div>
+
+<br>
+
+<div align="center">
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66c4517934a9226f3831834b?variant=dark" alt="roadmap.sh"/></a>
+
+</div>
